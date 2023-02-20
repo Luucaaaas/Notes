@@ -58,3 +58,22 @@ donne  le chemin
 ```
 permet de revenir en arriere dans le chemin de fichier
 ```
+`git add .`
+
+```
+Ajoute tous les ficher 
+
+sinon utiliser "git add <nom du fichier>"
+```
+
+`git commit -m "<message>"`
+
+```
+Permet de sauvegarder en local avec un message du changement effectuer 
+```
+
+`git push`
+
+```
+Permet d'envoyer le Code vers github
+```
